@@ -1,0 +1,80 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "Q_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Country": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Gender": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Marital Status": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Has Children": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Education Level": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Occupation": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Work Nature": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Religion": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Life Stage": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Income Bracket": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Common Language": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "frequency": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "Category": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Options": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answer": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
