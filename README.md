@@ -1,5 +1,13 @@
 # DVMap: Fine-Grained Pluralistic Value Alignment via High-Consensus Demographic-Value Mapping
 
+<div align="center">
+
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2605.14420)
+[![Code License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)](LICENSE)
+[![Data License](https://img.shields.io/badge/Data%20License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+</div>
+
 ## 📖 Overview
 
 Current Large Language Models (LLMs) typically rely on coarse-grained national labels for pluralistic value alignment. However, such macro-level supervision often obscures **intra-country value heterogeneity**, resulting in suboptimal alignment performance.
