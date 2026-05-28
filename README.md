@@ -59,3 +59,17 @@ This project is developed based on the following open-source data and frameworks
   * **veRL Framework:** Our alignment algorithms are implemented on top of the veRL distributed RL framework. We appreciate the veRL team for providing excellent tools for model parallelism and RLHF engineering.
 
 -----
+
+## Citation
+
+If you find this work useful, please consider citing it:
+
+```bibtex
+@inproceedings{Zhu2026DVMapFP,
+  title={DVMap: Fine-Grained Pluralistic Value Alignment via High-Consensus Demographic-Value Mapping},
+  author={Pengyun Zhu and Yuqi Ren and Zhen D. Wang and Lei Yang and Deyi Xiong},
+  year={2026},
+  url={[https://api.semanticscholar.org/CorpusID:288253373](https://api.semanticscholar.org/CorpusID:288253373)}
+}
+
+-----
