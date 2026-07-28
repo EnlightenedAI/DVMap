@@ -73,11 +73,22 @@ This project is developed based on the following open-source data and frameworks
 If you find this work useful, please consider citing it:
 
 ```bibtex
-@inproceedings{Zhu2026DVMapFP,
-  title={DVMap: Fine-Grained Pluralistic Value Alignment via High-Consensus Demographic-Value Mapping},
-  author={Pengyun Zhu and Yuqi Ren and Zhen D. Wang and Lei Yang and Deyi Xiong},
-  year={2026},
-  url={[https://api.semanticscholar.org/CorpusID:288253373](https://api.semanticscholar.org/CorpusID:288253373)}
+@inproceedings{zhu-etal-2026-dvmap,
+    title = "{DVM}ap: Fine-Grained Pluralistic Value Alignment via High-Consensus Demographic-Value Mapping",
+    author = "Zhu, Pengyun  and
+      Ren, Yuqi  and
+      Wang, Zhen  and
+      Yang, Lei  and
+      Xiong, Deyi",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.909/",
+    doi = "10.18653/v1/2026.acl-long.909",
+    pages = "19834--19852",
+    ISBN = "979-8-89176-390-6"
 }
 ```
 -----
